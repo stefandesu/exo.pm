@@ -2,26 +2,9 @@ remote_theme: stefandesu/exo-blog-theme
 title: Stefanです
 logo: /images/bowl2_2x.png
 email: stefandesu@exo.pm
-description: >- # this means to ignore newlines until "baseurl:"
-  Developer (mainly Swift, Python, web). Climber. Japan Enthusiast.
+description: Developer (mainly Swift, Python, web). Climber. Japan Enthusiast.
 twitter_username: stefandesu
 github_username:  stefandesu
-permalink: pretty
-plugins: [jekyll-paginate, jekyll-redirect-from]
-paginate: 10
-paginate_path: "/page/:num/"
-defaults:
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-  -
-    scope:
-      path: ""
-    values:
-      layout: page
 navigation:
   -
     name: Home
@@ -29,3 +12,6 @@ navigation:
   -
     name: About
     url: /about/
+footer: |
+  Copyright ©2018 Stefan. [Impressum](/impressum/)
+  <br>Logo made by my flatmate Salo. Thanks. :3 
