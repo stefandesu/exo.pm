@@ -5,6 +5,22 @@ email: stefandesu@exo.pm
 description: Developer (mainly Swift, Python, web). Climber. Japan Enthusiast.
 twitter_username: stefandesu
 github_username:  stefandesu
+permalink: pretty
+plugins: [jekyll-paginate, jekyll-redirect-from]
+paginate: 10
+paginate_path: "/page/:num/"
+defaults:
+ -
+   scope:
+     path: ""
+     type: posts
+   values:
+     layout: post
+ -
+   scope:
+     path: ""
+   values:
+     layout: page
 navigation:
   -
     name: Home
