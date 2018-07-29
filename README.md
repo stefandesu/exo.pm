@@ -1,8 +1,8 @@
-I'm migrating my blog from https://exo.pm to GitHub Pages. This is currently ongoing and might take a while to finish.
+I'm migrating my blog to GitHub Pages. The page is [live](https://exo.pm), but it is still a work in progress.
 
 ## Tasks
 - [x] Migrate posts and sites
 - [ ] Check posts and sites
 - [ ] Check redirects
-- [ ] Migrate theme!
-- [ ] Add custom domain with https
+- [x] Migrate theme!
+- [x] Add custom domain with https
