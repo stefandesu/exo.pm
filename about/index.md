@@ -5,9 +5,13 @@ date: 2018-01-25 11:00:00
 ---
 # About Me
 
+{% include image-left.html src="about01.jpg" title="That's Me" %}
+
 Hello.
 
 My name is Stefan. I'm a software developer from Göttingen, Germany. I have a diverse set of hobbies, some of which I'd like to talk about here.
+
+<div style="clear:both;"></div>
 
 ## Coding
 I've started coding in school on our TI-83 Plus graphing calculator with a BASIC-like programming language. I did some summer courses in PHP and Java, and we had one semester of Delphi programming in 10th grade (unfortunately, this was the only computer science related thing we had at our school). It was always fun for me and I learned quickly, but I never spent too much of my free time on it. I still decided to go to university for it because I knew I wanted to do "something with computers". Turns out there wasn't actually much coding in the curriculum. I still continued my journey, learning Python on the way, and accepting a student job where my coding skills were also needed. For quite a while now, I've wanted to dive into app development, but I always had some excuse not to commit myself to it. But this has changed.
