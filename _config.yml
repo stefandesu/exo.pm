@@ -28,6 +28,9 @@ navigation:
   -
     name: About
     url: /about/
+  -
+    name: Contact
+    url: /contact/
 footer: |
   Copyright ©2019 Stefan. [Impressum](/impressum/).
   <br>Logo made by my flatmate Salo. Thanks. :3
