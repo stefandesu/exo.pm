@@ -20,4 +20,4 @@ As a teaser, here are some things that I will likely touch upon this month:
 - making YouTube videos
 - probably lots of random nerdy tech stuff
 
-Right now, there is no real feedback mechanism for this blog, so I'm still considering if it makes sense to set something up. It's not like I have many or any readers, but I think getting some feedback, even if it's only from people I already know, would be very helpful. Let me know if you have any ideas ([Contact](/contact)!
+Right now, there is no real feedback mechanism for this blog, so I'm still considering if it makes sense to set something up. It's not like I have many or any readers, but I think getting some feedback, even if it's only from people I already know, would be very helpful. Let me know if you have any ideas ([Contact](/contact))!
