@@ -33,5 +33,7 @@ Testing comments via "Isso" here:
 #isso-thread > h4 {
   color: #C9CACC;
 }
-#isso-thread input[name="email"], #isso-thread input[name="website"], #isso-thread input[name="preview"]
+#isso-thread input[name="email"], #isso-thread input[name="website"], #isso-thread input[name="preview"] {
+  display: none;
+}
 </style>
