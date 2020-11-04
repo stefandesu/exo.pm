@@ -1,9 +1,9 @@
 #commento-login-box-forgot-link-container {
-  display: hide;
+  display: none;
 }
 #commento-login-box-login-link-container {
-  display: hide;
+  display: none;
 }
 #commento-footer {
-  display: hide;
+  display: none;
 }
