@@ -16,7 +16,6 @@ Note about comments: Currently, I only allow anonymous comments. Please check th
 
 Testing comments via "Isso" here:
 <script data-isso="https://isso.exo.pm/"
-        data-title="Test"
         data-isso-reply-to-self="true"
         data-isso-max-comments-top="10"
         src="https://isso.exo.pm/js/embed.min.js">
@@ -31,4 +30,8 @@ Testing comments via "Isso" here:
 #isso-thread .textarea:focus {
   color: black;
 }
+#isso-thread > h4 {
+  color: #C9CACC;
+}
+#isso-thread input[name="email"], #isso-thread input[name="website"], #isso-thread input[name="preview"]
 </style>
