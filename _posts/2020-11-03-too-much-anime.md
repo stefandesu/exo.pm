@@ -9,7 +9,7 @@ I'm sure I have talked about this before, but I've been a big anime fan since my
 
 I think last year I started looking into seasonal anime, so basically: What's running right now? I discovered [AniChart](https://anichart.net) and started picking up the best rated anime of each season. But this season, the fall 2020 season to be specific, I just went overkill. Part of it was simply that I realized how much I enjoy watching anime, especially if I can follow Reddit's weekly discussions (something that I started only recently, with Re:Zero Season 2). But also, this season is full of really good shows! There were previous seasons where I started watching a ton of shows, but I dropped most of them after an episode or two. This season, I'm actively watching 12 (!) shows, and there are two or three more that I either started and I'm not sure whether I'll continue, or that I'm interested in and might start as well.
 
-One might say that this is too much. Right now though, I like it! I enjoy the shows. Some are plain good. Some are funny. Some are just wholesome and you can turn off your mind. It's a great mix and I will definitely continue watching at least those 12 shows (I mean we're already more than a third through the season). 
+One might say that this is too much. Right now though, I like it! I enjoy the shows. Some are plain good. Some are funny. Some are just wholesome and you can turn off your mind. It's a great mix and I will definitely continue watching at least those 12 shows (I mean we're already more than a third through the season).
 
 Here are the anime I'm currently watching (roughly in order of how much I like it, although it's hard to say):
 - [Jujutsu Kaisen](https://anilist.co/anime/113415/Jujutsu-Kaisen)
@@ -29,6 +29,4 @@ Here are the anime I'm currently watching (roughly in order of how much I like i
 
 I might actually write a short review on some of these shows as their own posts later. I mean I somehow have to fill every day of this month. 😅
 
-Do you watch anime? What kind of shows have you been watching? Are you excited for the winter season which will be full of banger sequels (Shingeki no Kyojin finale, Re:Zero season 2 part 2, Yakusoku no Neverland season 2, Beastars season 2, only to mention a few)? Let me know ~~in the comments below~~[^1] via [Telegram or so](/contact). :)
-
-[^1]: I'll take some time tomorrow to look into this!
+Do you watch anime? What kind of shows have you been watching? Are you excited for the winter season which will be full of banger sequels (Shingeki no Kyojin finale, Re:Zero season 2 part 2, Yakusoku no Neverland season 2, Beastars season 2, only to mention a few)? Let me know ~~in the comments below~~ ~~via [Telegram or so](/contact)~~ actually in the comments below! :)
