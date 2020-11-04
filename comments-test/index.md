@@ -1,14 +1,14 @@
 ---
-title: projects
+title: comments test
 layout: page
-date: 2017-07-15 01:04:16
+date: 2020-11-04 17:16:00
 ---
 
 Testing comments via "Commento" here:
 
-<script defer 
+<script defer
   src="https://commento.exo.pm/js/commento.js"
-  data-css-override="https://exo.pm/projects/commento-css.css">
+  data-css-override="https://exo.pm/comments-test/commento-css.css">
 </script>
 <hr>
 Note about comments: Currently, I only allow anonymous comments. Please check the "comment anonymously" box before adding a comment.
