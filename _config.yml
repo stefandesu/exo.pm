@@ -1,8 +1,8 @@
 remote_theme: stefandesu/exo-blog-theme
-title: Stefanです
+title: Stefan です
 logo: /images/bowl2_2x.png
 email: stefandesu@exo.pm
-description: Developer (mainly Swift, JavaScript, Python). Climber. Japan Enthusiast.
+description: Who am I, actually?
 twitter_username: stefandesu
 github_username:  stefandesu
 permalink: pretty
@@ -32,5 +32,5 @@ navigation:
     name: Contact
     url: /contact/
 footer: |
-  Copyright ©2019 Stefan. [Impressum](/impressum/).
+  Copyright ©2020 Stefan. [Impressum](/impressum/).
   <br>Logo made by my flatmate Salo. Thanks. :3
