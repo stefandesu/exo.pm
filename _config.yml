@@ -2,7 +2,8 @@ remote_theme: stefandesu/exo-blog-theme
 title: Stefan です
 logo: /images/bowl2_2x.png
 email: stefandesu@exo.pm
-description: Who am I, actually?
+description_: Who am I, actually?
+description: Posting daily this month!
 twitter_username: stefandesu
 github_username:  stefandesu
 permalink: pretty
