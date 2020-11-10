@@ -8,7 +8,7 @@ author: Stefan
 Tonight at [10 a.m. PST / 7 p.m. CET](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Apple+Event&iso=20201110T1800), there will an Apple Event called "One more thing." It is heavily rumored and very likely that they will announce the first Apple Silicon Macs. But what is Apple Silicon and why does it matter?
 
 ## Apple Silicon?
-{% include image.html src="2020-11-10/IMG_0013.jpg" width="300px" title="Funny screenshot from Reddit" %}
+{% include image.html src="2020-11-10/IMG_0013.jpg" width="500px" title="Funny screenshot from Reddit" %}
 
 No, we're not talking about breast implants, but about SoCs (system on a chip). Up til now[^1], Apple has been using Intel CPUs for all they Mac computers, whether laptops or desktops. Intel, however, has not been able to fulfill their promises and deadlines about new processor development, therefore giving only slight improvements in recent years.
 
