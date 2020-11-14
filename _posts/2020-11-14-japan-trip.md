@@ -11,7 +11,7 @@ Warning: Another long post ahead! (I should add a word count at the top of each 
 
 ## The Story
 
-Basically since I got back from Japan in March 2017, I wanted to go to Japan again. It didn't take long for me to start making plans and dreaming of all sorts of ways I could make it happen. Back then, I was close to quitting my masters degree at university and just get a job. I applied for some, but I didn't put enough pressure on myself and couldn't make it work. I also thought that I'd just work for a year, live frugally, save all my money, then quit and go back to Japan. Spoiler: I didn't do it that way.
+Basically since I got back from Japan in March 2017, I wanted to go back there. It didn't take long for me to start making plans and dreaming of all sorts of ways I could make it happen. Back then, I was close to quitting my master's degree at university and just get a job. I applied for some, but I didn't put enough pressure on myself and couldn't make it work. I also thought that I'd just work for a year, live frugally, save all my money, then quit and go back to Japan. Spoiler: I didn't do it that way.
 
 Eventually in the beginning of 2018, I realized that I need to take action. I submitted the form to the university saying that I won't continue my studies after the end of the semester, signed up at the job center, and started applying for jobs. I was very lucky and immediately found a job in my city that I still have today. I was able to start working in May 2018.
 
@@ -32,7 +32,7 @@ So in the end, I did spent about 4 1/2 months in total in Japan, but it was very
 ## Why I Think It Failed
 There are some things that I think made it harder for me to make good use of my time in Japan.
 
-1. Work
+1) Work
 
 I was very grateful that my work was flexible enough for such an arrangement. The pay, even if little, allowed me to pay for my bills in Germany plus a little boost for my travel fund. Not having that would have meant a completely different experience there (not necessarily worse though).
 
@@ -40,19 +40,23 @@ But, even though I didn't work many hours, I wasn't able to find a good balance 
 
 I think without work, it would have been easier for me to spend my time well there. Even finding a job there (I had a working holiday visa) would have been much better because it would have been a new experience, new people, and language learning opportunity.
 
-2. Not committing to one place
+2) Not committing to one place
 
 Since I was always moving from hostel to hostel, I didn't really get to know any people there, and had to start from zero every time I got to a new place. Traveling around and seeing new places is fun, but for what I wanted out of that trip, it would have been better to live in a share house or something similar and stay longer at a single place.
 
-3. Not fully committing to "being there"
+3) Not fully committing to "being there"
 
 This might be related to the second point, but I feel like I spent too much time with my head in Germany. I was talking to my friends a lot during that time, and I was always thinking about missing out on their meetups and stuff. I was never fully in Japan. I guess it's natural to miss your friends, but to miss them so much that you book a flight to Germany for a few weeks to see them seems extreme, especially because I've been looking forward to that Japan trip for years.
 
 I'm not sure what specific steps I could have taken to prevent this, but it feels like one of the big reasons that I didn't get as much out of that Japan trip.
 
-4. Not making new friends
+4) Not making new friends
 
-This is also related to the second and third point. People are important. But because I didn't have many friends in Japan (especially in Tokyo where I spent most of my time), I spent a lot of time alone. And for some reason, I wasn't very motivated to actively meet new people (likely related to the previous point). I did spent a lot of time with my close friend Igor who has been living in Tokyo for over two years now, but he had a full-time job and it's not like he had time or energy to meet me every single day. There was a lot of potential to meet people, to make new friends, but I didn't take advantage of it.[^3]
+This is also related to the second and third point. People are important. But because I didn't have many friends in Japan (especially in Tokyo where I spent most of my time), I spent a lot of time alone. And for some reason, I wasn't very motivated to actively meet new people (likely related to the previous point). I did spend a lot of time with my close friend Igor who has been living in Tokyo for over two years now, but he had a full-time job and it's not like he had time or energy to meet me every single day. There was a lot of potential to meet people, to make new friends, but I didn't take advantage of it.[^3]
+
+5) Expectations
+    
+You might have had this thought when reading one of my sentences earlier (actually, I added this point after rereading the post). It will never be like what you had imagined. Life unfolds itself without considering your expectations. Of course you have some control over it (otherwise it wouldn't make sense to list the other points), but in the end, we need to accept things as they happen. Approaching life with an open mind is a much better strategy, I think.
 
 ---
 
