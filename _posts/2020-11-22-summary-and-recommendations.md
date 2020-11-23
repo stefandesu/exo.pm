@@ -14,7 +14,7 @@ If you have any ideas for topics I can write about that don't require a ton of t
 Not too many recommendations for this week:
 - Related to my Too Much Input post, Nathanial Drew posted a [video about quitting social media for 30 days](https://www.youtube.com/watch?v=hHE1cJF3OZs).
 - For those who watched Tenet, you should watch this [Tenet inspired video](https://www.youtube.com/watch?v=PSBtysVymnU).
-- I randomly stumbled upon this fascinating [FPV drove video of the Matternhorn](https://www.youtube.com/watch?v=5xqgvRIUffI).
+- I randomly stumbled upon this fascinating [FPV drone video of the Matternhorn](https://www.youtube.com/watch?v=5xqgvRIUffI).
 - [Dumbledore asked calmly](https://youtu.be/IdoD2147Fik)
 - Peter McKinnon made a [really cool video](https://youtu.be/_MLFSX5cpmE).
 
