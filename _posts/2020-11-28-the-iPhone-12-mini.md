@@ -17,25 +17,25 @@ Holding it in my hand, I think it is a true iPhone SE successor. Newest internal
 
 Apart from the performance, the most important factor in a phone for me is camera quality. Down below, you can find a bunch of photos I've taken with the iPhone 12 mini over the past two weeks. All of these are straight out of the camera (which in this case means that they contain Apple's processing, but I did not touch the photos at all). You can click on a photo to get a bigger version.[^1]
 
-{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0030-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0030.jpeg" width="300px" %}
+{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0030-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0030.jpeg" width="400px" %}
 
 This one is a night mode photo with very bad indoor lighting:
-{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0041-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0041.jpeg" width="300px" %}
+{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0041-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0041.jpeg" width="400px" %}
 
-{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0048-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0048.jpeg" width="300px" %}
+{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0048-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0048.jpeg" width="400px" %}
 
-{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0125-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0125.jpeg" width="300px" %}
+{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0125-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0125.jpeg" width="400px" %}
 
-{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0156-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0156.jpeg" width="300px" %}
+{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0156-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0156.jpeg" width="400px" %}
 
-{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0158-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0158.jpeg" width="300px" %}
+{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0158-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0158.jpeg" width="400px" %}
 
-{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0202-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0202.jpeg" width="300px" %}
+{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0202-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0202.jpeg" width="400px" %}
 
-{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0227-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0227.jpeg" width="300px" %}
+{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0227-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0227.jpeg" width="400px" %}
 
 This last photo is taken with the ultra-wide camera:
-{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0233-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0233.jpeg" width="300px" %}
+{% include image.html src="2020-11-28-the-iPhone-12-mini/IMG_0233-2.jpeg" src-full="2020-11-28-the-iPhone-12-mini/IMG_0233.jpeg" width="400px" %}
 
 I am planning to make a video for YouTube that shows the mini's video capabilities. However, there are still lots of features I have yet to take advantage of, like slow motion, Dolby Vision HDR, and night timelapse.
 
@@ -49,8 +49,6 @@ A few more notes about certain aspects of this phone:
 - Size: I think it could be slightly smaller, maybe 5.2 inches, but I don't want to complain and 5.4 inch is still a great size for this phone. (Also, battery life would become worse.)
 
 All in all, I am incredibly happy with this phone. It would be great if the battery life could be a bit better, but it's totally fine. Also, I wouldn't complain about a telephoto lens on the back since without one, it's hard to take photos of objects further away. I'm not very optimistic about that though. I do hope, however, that Apple is committed to continue to make phones of this size. The original SE was a one-off phone and people who loved it for its size were left waiting for a long time. It would be nice if this didn't happen with the 12 mini.
-
-2020-11-28-the-iPhone-12-mini
 
 ---
 [^1]: Note that the bigger version is still not the original file (converted to JPEG with slight compression). I only want to give an impression of what this phone can do.
