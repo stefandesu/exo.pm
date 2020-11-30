@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One Month of Daily Blogging
-date: 2020-11-30 16:00:00
+date: 2020-11-30 08:15:00
 author: Stefan
 ---
 
@@ -25,11 +25,9 @@ The goal of this challenge was to get back into writing. And I definitely achiev
 
 In the end, I'm very happy that I challenged myself to do this. I am grateful that I am flexible enough in my life to devote a chunk of each day to such a challenge, and I'm also grateful for you, the readers. Without anyone reading, I would still have done it, but it wouldn't have been as much fun. Apart from the public comments, I also received some private feedback and thoughts about certain posts, especially about those thought-provoking ones.
 
-I also gained a lot of respect for people like [Seth Godin](https://seths.blog) who do this - posting on their blog every single day - continuously. Of course in this particular case, it is part of his job, and he also keeps the posts pretty short, but I now tasted a little bit of how it feels to do that.
-
 Thank you for reading my blog! I really appreciate it. While I will take a break from blogging for a while[^3], I certainly don't plan to abandon this blog. Since I'm planning to do more weekly or monthly challenges, expect posts about that fairly soon. I also want to get back into a bunch of other things (like app development and YouTube), so I'm going to use this blog to keep you up-to-date with what I'm doing.
 
 ---
 [^1]: National Blog Writing Month
 [^2]: Although it feels like those improvements were very visible over the first two weeks, but then the struggle of posting every day also became apparent in the quality of my writing.
-[^3]: There might be another post tomorrow though...
+[^3]: Spoiler: There will be another post later today.
