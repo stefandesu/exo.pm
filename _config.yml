@@ -4,10 +4,12 @@ logo: /images/bowl2_2x.png
 email: stefandesu@exo.pm
 description_: Who am I, actually?
 description: Posting daily this month!
+url: https://exo.pm
+author: Stefan
 twitter_username: stefandesu
 github_username:  stefandesu
 permalink: pretty
-plugins: [jekyll-paginate, jekyll-redirect-from]
+plugins: [jekyll-paginate, jekyll-redirect-from, jekyll-feed]
 paginate: 10
 paginate_path: "/page/:num/"
 defaults:
@@ -35,3 +37,5 @@ navigation:
 footer: |
   Copyright ©2020 Stefan. [Impressum](/impressum/).
   <br>Logo made by my flatmate Salo. Thanks. :3
+feed:
+  posts_limit: 20
