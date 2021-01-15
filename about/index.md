@@ -37,6 +37,3 @@ At some point, I became obsessed with watching vloggers like Casey Neistat on Yo
 
 ## Other Things
 I also enjoy juggling and unicycling (there was a time when I was REALLY into these), watching movies and TV shows, reading books, listening to podcasts, and occasionally playing video games (I was really into video games as a teenager).
-
-## Contact
-If you'd like to contact me, send me a message on [Twitter](https://twitter.com/stefandesu) or an email to [stefandesu@exo.pm](mailto:stefandesu@exo.pm).
