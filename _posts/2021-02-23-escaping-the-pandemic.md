@@ -13,7 +13,7 @@ In one of the videos, I have listed some reasons why I made the decision to come
 
 Since life is pretty much normal here, it allowed me to keep most things COVID out of my life for the past few weeks. While I've been trying to stay positive and not obsess about the news, I think being in lockdown and constantly having to think about it has likely affected my mental health (despite being one of the lucky ones that don't have to worry about losing their job). Not having this background process running at all times in the past few weeks has been so refreshing. I pretty much haven't checked any numbers or news about COVID since arriving in Norway.
 
-This is definitely not an option for most people (I definitely don't recommend traveling during times like these), but it made me realize that if even I'm feeling mentally drained by the pandemic, it must be so much worse for other people, and it makes me hope even more that things will improve soon.
+This is definitely not an option for most people (I don't recommend traveling during times like these), but it made me realize that if even I'm feeling mentally drained by the pandemic, it must be so much worse for other people, and it makes me hope even more that things will improve soon.
 
 How are you doing? Have you noticed the pandemic affecting your mental health? What do you think could help people to calm down a bit?
 
