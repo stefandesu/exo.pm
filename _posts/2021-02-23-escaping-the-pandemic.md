@@ -5,7 +5,7 @@ date: 2021-02-23 18:30:00
 author: Stefan
 ---
 
-Long time no see! Once again, I have neglected my blog a bit, but at least I haven't been completely idle in the last few months. In fact, I actually went to Norway at the end of January! I'm staying here up north with my friends for a bit. My employer currently has special regulations regarding remote work that allow me to work from anyway.[^1]
+Long time no see! Once again, I have neglected my blog a bit, but at least I haven't been completely idle in the last few months. In fact, I actually went to Norway at the end of January! I'm staying here up north with my friends for a bit. My employer currently has special regulations regarding remote work that allow me to work from anywhere.[^1]
 
 I've made some videos here in Norway that are up on my YouTube channel. Check out the [Norway Playlist](https://www.youtube.com/playlist?list=PL1qaajXaSzv_MggCdRcXLr8R66iwDk92M)!
 
