@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Anime Note-Taking Strategy
-date: 2021-03-27 12:00:00
+date: 2021-03-27 12:15:00
 author: Stefan
 ---
 
