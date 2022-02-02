@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rest in Peace, Nodoka Meditation Timer
+title: Rest in Peace, Nodoka Meditation Timer!
 date: 2022-02-02 17:30:00
 author: Stefan
 ---
