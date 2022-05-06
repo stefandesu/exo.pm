@@ -1,4 +1,4 @@
 ---
 title: Latest Video
-redirect_to: https://www.youtube.com/watch?v=Up-kdJqUqjo
+redirect_to: https://www.youtube.com/watch?v=fZFAZpNZstY
 ---
