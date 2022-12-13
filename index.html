@@ -23,11 +23,12 @@ Find me on <a href="https://twitter.com/stefandesu"><i class="icon-twitter"></i>
   // Add "Let it snow!" button if it's between November and February
   const month = (new Date()).getMonth()
   if (month < 2 || month > 9) {
+    const target = document.getElementsByTagName("footer")[0] || document.body
     const button = document.createElement("a")
     button.href = ""
     button.appendChild(document.createTextNode("Let it snow!"))
     button.addEventListener("click", letItSnow)
-    document.body.appendChild(button)
+    target.appendChild(button)
   }
   function letItSnow(event) {
     event.preventDefault()
