@@ -2,7 +2,7 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - dev
+      - main
 
 jobs:
   gh-pages:
@@ -14,7 +14,7 @@ jobs:
       - name: Setup Ubuntu dependencies
         run: sudo apt install -y libvips libjpeg
       - name: Setup Ruby
-        uses: ruby/setup-ruby
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
           bundler-cache: true
