@@ -4,24 +4,21 @@ My personal blog, hosted at https://exo.pm.
 
 ## Tasks
 
-Currently none. However, at some point in the future, I would like to update both the design and the technical aspects of the site.
+- [ ] Do not regenerate all images on each build (requires cloning `gh-pages` branch into folder `_site` before building)
+- [ ] Make [PageSpeed Insights](https://pagespeed.web.dev) happy (still complains about "Properly size images" and some other things)
+- [ ] With the update to Jekyll 4 and deployment via GitHub Actions, part of the footer got lost; need to investigate
+- [ ] Add image captions
+- [ ] In the future: Technically rebuild the whole site (e.g. with Astro)
 
 ## Notes
 
 ### Images
-To include images, put them into `_site/images/` and include them in a post like this:
+To include images, put them into `_images` and include them in a post like this:
 ```
-{% include image.html src="sample-image.jpg" src-full="sample-image-full.jpg"  width="300px" title="Sample Title" %}
-```
-
-Only `src` is required. `src-full` defaults to the value of `src`, and `width` defaults to `100%`.
-
-To include floating left images, use the following instead:
-```
-{% include image-left.html src="sample-image.jpg" width="100px" title="Sample Title" %}
+{% picture test.jpg %}
 ```
 
-At the moment, these can't be linked (only manually). Default `width` is 200 pixels.
+See https://rbuchberger.github.io/jekyll_picture_tag/ for more details.
 
 ### Footnotes
 ```
@@ -38,8 +35,8 @@ The identifier in the square brackets does not have to be numeric[^my_footnote].
 
 ### Local Testing
 For local testing, you need:
-- Ruby (>=2.4)
+- Ruby (>=3)
 - bundler (gem install bundler)
 - dependencies (bundle install)
 
-Then run `bundle exec jekyll serve` ([see also](https://help.github.com/en/articles/testing-your-github-pages-site-locally-with-jekyll)).
+Then run `bundle exec jekyll serve`.
