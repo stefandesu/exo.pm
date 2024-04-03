@@ -12,7 +12,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Setup Ubuntu dependencies
-        run: sudo apt install -y libvips libjpeg
+        run: sudo apt install -y libvips
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
