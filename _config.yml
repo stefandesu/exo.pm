@@ -1,5 +1,7 @@
+repository: stefandesu/exo.pm
 remote_theme: stefandesu/exo-blog-theme
 title: Stefan です
+timezone: Europe/Berlin
 logo: /images/bowl2_2x.png
 email: stefandesu@exo.pm
 description: Hi there!
@@ -8,7 +10,7 @@ author: Stefan
 twitter_username: stefandesu
 github_username:  stefandesu
 permalink: pretty
-plugins: [jekyll-paginate, jekyll-redirect-from, jekyll-feed, jekyll-seo-tag]
+plugins: [jekyll-paginate, jekyll-redirect-from, jekyll-feed, jekyll-seo-tag, jekyll_picture_tag, jekyll-remote-theme]
 paginate: 10
 paginate_path: "/page/:num/"
 defaults:

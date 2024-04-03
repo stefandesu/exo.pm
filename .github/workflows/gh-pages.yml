@@ -1,0 +1,32 @@
+name: GitHub Pages
+on:
+  push:
+    branches:
+      - dev
+
+jobs:
+  gh-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Setup Ubuntu dependencies
+        run: sudo apt install -y libvips libjpeg
+      - name: Setup Ruby
+        uses: ruby/setup-ruby
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+          cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Build with Jekyll
+        # Outputs to the './_site' directory by default
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          enable_jekyll: false
