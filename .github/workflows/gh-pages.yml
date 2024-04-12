@@ -8,9 +8,11 @@ jobs:
   gh-pages:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          ref: 'github-pages'
+          path: './_site'
       - name: Setup Ubuntu dependencies
         run: sudo apt install -y libvips
       - name: Setup Ruby
