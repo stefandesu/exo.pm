@@ -1,7 +1,6 @@
 media_queries:
-  mobile: 'max-width: 600px'
-  laptop: 'max-width: 800px'
-  wide: 'min-width: 801px'
+  desktop: 'min-width: 641px'
+  mobile: 'max-width: 640px'
 
 presets:
   default:
@@ -12,6 +11,10 @@ presets:
       webp: 75
       avif: 70
 
-    widths: [200, 400, 800, 1200, 1600]
+    widths: [256, 590, 800, 1180, 1300, 1600]
     
     dimension_attributes: true
+
+    sizes:
+      desktop: 590px
+      mobile: calc(100vw - 50px)
