@@ -14,7 +14,7 @@ jobs:
           ref: 'gh-pages'
           path: './_site'
       - name: Setup Ubuntu dependencies
-        run: sudo apt install -y libvips
+        run: sudo apt install -y libvips libwebp libjpeg libheif
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
