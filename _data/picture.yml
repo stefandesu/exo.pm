@@ -13,14 +13,5 @@ presets:
       avif: 70
 
     widths: [200, 400, 800, 1200, 1600]
-
-    image_options:
-      avif:
-        compression: av1
-        effort: 7 # Up to 9 from 0, 9=really slow
-      png:
-        compression: 9 # Up to 9, fast
-      webp:
-        effort: 5 # Up to 6 from 0, 4=default
     
     dimension_attributes: true
