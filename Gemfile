@@ -23,7 +23,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-redirect-from'
   gem "jekyll-seo-tag"
-  gem "jekyll_picture_tag"
+  gem "jekyll_picture_tag", '~> 2.1'
   gem "jekyll-remote-theme"
 end
 
