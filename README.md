@@ -20,6 +20,14 @@ To include images, put them into `_images` and include them in a post like this:
 
 See https://rbuchberger.github.io/jekyll_picture_tag/ for more details.
 
+Before committing any images to the repository, remove dates and GPS metadata from the EXIF:
+
+```sh
+exiftool -alldates= -gps:all= -DateCreated= _images/**/*
+```
+
+TODO: Automate this (pre-commit hook?)
+
 ### Footnotes
 ```
 Some text[^1].
