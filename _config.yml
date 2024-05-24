@@ -7,7 +7,6 @@ email: stefandesu@exo.pm
 description: Hi there!
 url: https://exo.pm
 author: Stefan
-twitter_username: stefandesu
 github_username:  stefandesu
 permalink: pretty
 plugins: [jekyll-paginate, jekyll-redirect-from, jekyll-feed, jekyll-seo-tag, jekyll_picture_tag, jekyll-remote-theme]
