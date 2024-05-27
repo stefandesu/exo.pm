@@ -41,7 +41,6 @@ navigation:
     name: Contact
     url: /contact/
 footer: |
-  Copyright ©2024 Stefan. [Impressum](/impressum/).
-  <br>Logo made by my flatmate Salo. Thanks. :3
+  Logo made by my flatmate Salo. Thanks. :3
 feed:
   posts_limit: 20
