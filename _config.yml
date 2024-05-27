@@ -48,6 +48,7 @@ navigation:
     name: Contact
     url: /contact/
 footer: |
-  Logo made by my flatmate Salo. Thanks. :3
+  Logo made by my friend [Salo](https://www.instagram.com/die_salo/). Thanks. :3
+  <br>Hosted on [GitHub Pages](https://github.com/stefandesu/exo.pm).
 feed:
   posts_limit: 20
