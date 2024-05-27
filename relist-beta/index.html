@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Markdown style -->
+    <link rel="stylesheet" href="/assets/css/github-markdown.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <!-- Import syntax highlighting -->
+    <link rel="stylesheet" href="/assets/css/native.css">
+    <!-- Import icon font -->
+    <link rel="stylesheet" href="/assets/css/fontello.css">
+    <!-- RSS feed -->
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      href="feed.xml"
+      title="Blog" />
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>relist-beta | Stefan です</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="relist-beta" />
+<meta name="author" content="Stefan" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Hi there!" />
+<meta property="og:description" content="Hi there!" />
+<link rel="canonical" href="https://exo.pm/relist-beta/" />
+<meta property="og:url" content="https://exo.pm/relist-beta/" />
+<meta property="og:site_name" content="Stefan です" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-01-22T19:00:00+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="relist-beta" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Stefan"},"dateModified":"2018-01-22T19:00:00+01:00","datePublished":"2018-01-22T19:00:00+01:00","description":"Hi there!","headline":"relist-beta","mainEntityOfPage":{"@type":"WebPage","@id":"https://exo.pm/relist-beta/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://exo.pm/images/bowl2_2x.png"},"name":"Stefan"},"url":"https://exo.pm/relist-beta/"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <div id="header-top">
+          <a href="https://exo.pm/">
+            
+            <div id="logo">
+              <img src="/images/bowl2_2x.png" width="50" height="50" alt="Logo">
+            </div>
+            
+            <div id="title">
+              <h1>Stefan です</h1>
+              <small>Hi there!</small>
+            </div>
+          </a>
+        </div>
+        <div id="navigation">
+          
+            
+            <span class="navigation-item">
+              <a href="/">
+                Home
+              </a>
+            </span>
+            
+            <span class="navigation-item">
+              <a href="/about/">
+                About
+              </a>
+            </span>
+            
+            <span class="navigation-item">
+              <a href="/now/">
+                Now
+              </a>
+            </span>
+            
+            <span class="navigation-item">
+              <a href="/contact/">
+                Contact
+              </a>
+            </span>
+            
+          
+        </div>
+      </header>
+      <section class="markdown-body">
+        <h1 id="relist-beta-information">ReList Beta Information</h1>
+<p>This page is still a work in progress.</p>
+
+<h2 id="quick-links">Quick Links</h2>
+<p><a href="#General">General</a>
+<a href="#What-is-ReList">What is ReList?</a>
+<a href="#Known-Bugs">Known Bugs</a>
+<a href="#ToDo-List">ToDo List</a>
+<a href="#Possible-Features-for-later">Possible Features for later</a>
+<a href="#Update-Notes">Update Notes</a></p>
+
+<h2 id="general">General</h2>
+
+<p>Thank you for participating in the ReList beta! First of all, please note that both the name and the app icon are not finalized and might change completely until release.</p>
+
+<p>There is a discussion group about the beta on Telegram. If you’d like to be invited, send me a <a href="https://t.me/StefanDesu">message</a>. If you just want to send me feedback directly, you can just use our usual means of communication.</p>
+
+<p>If you are not yet on the beta, send me a message with your email address asking for a TestFlight invite. You will need to download the <a href="">TestFlight app</a> from the App Store and use the code/link provided in the invitation email.</p>
+
+<h2 id="what-is-relist">What is ReList?</h2>
+
+<p>ReList is an app focused on reusable checklist. Think of your morning routine (if you have one) or your packing list for trips. Lists that you create once, but go through multiple times. The app lets you create templates that can be reused and turned into checklists.</p>
+
+<h2 id="known-bugs">Known Bugs</h2>
+<ul>
+  <li>On iPad, the selection on the left column will be lost in certain cases.</li>
+  <li>Theme does not work in acknowledgements</li>
+  <li>Repeating menu opens very slowly</li>
+  <li>In some cases, the app does not create a repeating checklist, then crashes when going into the repeating settings of that list, but creates the checklist after relaunch (it happened to me two or three times already, if someone finds a way to reproduce it, I’d be really grateful!)</li>
+  <li>The app might crash when going into background or while in background (still has to be investigated, might have been fixed together with a different crash)</li>
+  <li>Probably a lot more that you will find…</li>
+  <li><del>Very rarely, the app might crash on start up (related to sync)</del></li>
+  <li><del>Item list edit mode: Weird behavior of Done button</del></li>
+  <li><del>Sometimes (most of the time?) creating a new list will not open that list automatically (still looking into it)</del></li>
+  <li><del>On iPad, when the item list is cleared (e.g. when the list was deleted or archived), the undo button won’t get removed</del></li>
+  <li><del>Custom name patterns do not work when creating a list with an empty name</del></li>
+  <li><del>When changing theme, segmented control in settings won’t change color until settings are reopened</del></li>
+  <li><del>In settings, the leading margin is inconsistent (it was not an iOS bug…)</del></li>
+</ul>
+
+<h2 id="todo-list">ToDo List</h2>
+<p>(Roughly in order of priority. Features might not be in the current TestFlight build even if checked off here.)</p>
+<ul>
+  <li>(Improvement) Create a template from a checklist</li>
+  <li>(Feature) Badge on app icon for number of open lists/items</li>
+  <li>(Improvement) Make the main screen look nicer</li>
+  <li>(Improvement) Show items for archived lists</li>
+  <li>(Feature) Customizable icon and color per list</li>
+  <li>(Feature) Keyboard support for iPad</li>
+  <li>(Feature) Reminders for lists (not yet decided how this should look like)</li>
+  <li>(Feature) Automatic backups</li>
+  <li>(Improvement) Rewrite sync to use iCloud instead of Realm Object Server</li>
+  <li>(Feature) 3D touch for lists</li>
+  <li>(Feature) Notes for lists</li>
+  <li>(Improvement) Jump to first unchecked item</li>
+  <li>…</li>
+  <li><del>(Feature) Theme option in settings</del></li>
+  <li><del>(Improvement) Make it easier to create a list based on a certain template</del></li>
+  <li><del>(Improvement) In general make the whole workflow much easier</del></li>
+  <li><del>(Improvement) Allow creation of templates based on an existing template</del></li>
+  <li><del>(Improvement) Improve item list screens -&gt; tap on item in checklist should check off the item</del></li>
+  <li><del>(Feature) Create an archive of lists that are completed</del></li>
+  <li><del>(Feature) Repeating lists -&gt; e.g. create a list based on the Morning Routine template every morning</del></li>
+  <li><del>(Improvement) Confirm deletion of list</del></li>
+  <li><del>(Improvement) Settings in regards to auto archiving</del></li>
+  <li><del>(Improvement) Dropdown menu in item list for the top right corner</del></li>
+  <li><del>(Improvement) Global setting for auto archiving behavior</del></li>
+  <li><del>(Feature) Haptic feedback when checking off an item</del></li>
+  <li><del>(Feature) Allow undo of deletion of items</del></li>
+</ul>
+
+<h2 id="possible-features-for-later">Possible Features for later</h2>
+
+<ul>
+  <li>Sections within lists (for better organization)</li>
+  <li>Share lists with others</li>
+  <li>Allow sub-lists (an item containing several items, or another list as an item)</li>
+  <li>Allow checklists to stay connected to their templates, i.e. make sure they always have the same items (might be hard to do well)</li>
+  <li>Support for Workflow</li>
+  <li>Web API</li>
+</ul>
+
+<h1 id="update-notes">Update Notes</h1>
+
+<h2 id="update-notes-build-1167-7-february-2018">Update Notes Build 1167 (7 February 2018)</h2>
+
+<ul>
+  <li>Fixed a crash when updating from an older build to the newest build.</li>
+</ul>
+
+<h2 id="update-notes-build-1163-7-february-2018">Update Notes Build 1163 (7 February 2018)</h2>
+
+<ul>
+  <li>Added a global setting for the default auto archiving behavior for new lists</li>
+  <li>Fixed a bug where the app would crash when navigating away from an item list while editing an item with empty name</li>
+  <li>This build disables sync and removes the option from the settings. While sync worked generally, there were issues especially when using auto repeating lists. I will definitely work more on sync in the future as I want to use the app on multiple devices as well, but for now this feature is removed.</li>
+  <li>The crowded buttons in the top right corner of the item list were replaced with only the list settings and a dropdown menu. There are a few dummy options there to show that it will not only contain two options, but those other ones are not yet implemented.</li>
+  <li>Fixed: Checking off items will now give a nice subtle feedback using haptic feedback (iPhone 7 and above) or the taptic engine (iPhone 6s). Please report back if this is working for you if you have a supported phone, we only tested it on one iPhone 8 Plus so far. Note that the feedback will not occur when the phone is muted.</li>
+</ul>
+
+<h2 id="update-notes-build-1122-1-february-2018">Update Notes Build 1122 (1 February 2018)</h2>
+<p>This update is much bigger than the last one, fortunately. Still, my todo list just won’t become any shorter.</p>
+
+<ul>
+  <li>Hopefully fixed behavior for repeating lists (it’s complicated)</li>
+  <li>Changed screen transitions and navigation buttons (especially important for iPad)</li>
+  <li>Improved item list interface. Note that those three buttons in the top right are temporary and will be replaced with a small dropdown menu.</li>
+  <li>Squashed lots of small bugs (mostly interface related)</li>
+  <li>Allow undo of deletion of items (arrow in the top right of a list)</li>
+  <li>When manually creating a checklist for a template, it now uses the custom name defined for repeating checklists</li>
+  <li>In the list settings (gear in the top right on the item list screen) the behavior for automatically archiving a completed list can now be changed. This setting is copied when a checklist is created for a template. Also, when restoring a completed checklist, this setting is set to None so that the restored list won’t immediately be auto-archived again.</li>
+</ul>
+
+<p>Note that if you have sync enabled, the auto archive behavior for all existing lists will be None. I have no way of changing that, unfortunately, so you will have to adjust it manually.</p>
+
+<h2 id="update-notes-build-1007-29-january-2018">Update Notes Build 1007 (29 January 2018)</h2>
+<p>Sorry for the lack of updates. The first feature below took a lot of time to implement. Also, for some reason I haven’t had much energy these last few days, so I had a hard time even starting to do something. I hope it’ll get better soon. Anyway, here are the changes:</p>
+
+<ul>
+  <li>Added support for repeating checklists! As this was pretty complicated to do, there might be still a lot of bugs in there. It’s also hard to test properly, so I hope that when a bug appears, we’ll be able to reproduce it. Note that for some reason, there is a big delay when going into the repeating settings. I’m still looking into this.</li>
+  <li>Completed lists will now be automatically archived. Current issues: Does not work properly on iPad, and there’s no way to turn it off, even when restored through Archive. Later I will implement a setting where this behavior can be overridden either globally or for each list.</li>
+  <li>Archive: Swiping left now shows a delete action, swiping right shows the restore action.</li>
+</ul>
+
+<p>I have also updated the todo list and bug list above, although right now I kind of lost track of all the small issues that need to be dealt with…</p>
+
+<h2 id="update-notes-build-901-25-january-2018">Update Notes Build 901 (25 January 2018)</h2>
+
+<ul>
+  <li>Fixed visual bugs</li>
+  <li>Fixed lots of small bugs</li>
+  <li>Hopefully didn’t introduce too many new bugs</li>
+  <li>Improved naming of new lists when user doesn’t input a name</li>
+  <li>Fixed bug in template selection (archived templates were shown)</li>
+  <li>Improved item list behavior (rewrote the whole thing actually)</li>
+  <li><del>Hopefully a little surprise for some of you 😏 (let me know if it works and if you like it!)</del> Doesn’t seem to work…</li>
+</ul>
+
+<h2 id="update-notes-build-791-24-january-2018">Update Notes Build 791 (24 January 2018)</h2>
+
+<ul>
+  <li>Deletion of lists now asks for confirmation</li>
+  <li>Improved flow when activating sync (still far from perfect though)</li>
+  <li>Switched Edit and Settings button on main screen</li>
+  <li>Lots and lots and lots of refactoring…</li>
+  <li>You can now edit list names when in editing mode on main screen</li>
+  <li>Duplication of a list by swiping right</li>
+  <li>Easily create a list for a template by swiping right</li>
+  <li>By default, Template is chosen as a type for a new list</li>
+  <li>Fixed bug where the app would crash if number of checklists and number of templates would change at the same time (this one was complicated)</li>
+  <li>Archiving lists by swiping left</li>
+  <li>Added Archive to be able to see and restore archived lists</li>
+</ul>
+
+
+      </section>
+      <footer>
+        
+        
+        
+        <p>Logo made by my flatmate Salo. Thanks. :3</p>
+
+        
+      </footer>
+    </div>
+  </body>
+</html>
