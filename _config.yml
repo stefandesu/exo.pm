@@ -9,7 +9,14 @@ url: https://exo.pm
 author: Stefan
 github_username:  stefandesu
 permalink: pretty
-plugins: [jekyll-paginate, jekyll-redirect-from, jekyll-feed, jekyll-seo-tag, jekyll_picture_tag, jekyll-remote-theme]
+plugins: 
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll_picture_tag
+  - jekyll-remote-theme
+  - jekyll-target-blank
 picture:
   source: "_images"
   output: "assets/img"
