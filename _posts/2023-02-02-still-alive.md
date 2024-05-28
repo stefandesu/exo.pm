@@ -3,6 +3,7 @@ layout: post
 title: It's 2023 - Still Alive
 date: 2023-02-02 18:14:00
 author: Stefan
+redirect_from: 2022/
 ---
 
 I can't believe it's already February. Too late for a "Happy New Year" now, sorry about that. I hope you all had a good start to the year. It's been quite a while since I've been active on this blog (exactly one year since the last post actually), but I'd like to get back to blogging from time to time. No promises though!
