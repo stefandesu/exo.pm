@@ -26,7 +26,7 @@ Before committing any images to the repository, remove dates and GPS metadata fr
 exiftool -alldates= -gps:all= -DateCreated= _images/**/*
 ```
 
-TODO: Automate this (pre-commit hook?)
+Add `-overwrite_original` if you feel risky. TODO: Automate this (pre-commit hook?)
 
 ### Footnotes
 ```
