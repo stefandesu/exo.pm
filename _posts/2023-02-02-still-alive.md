@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's 2023 - Still Alive
+title: Still Alive
 date: 2023-02-02 18:14:00
 author: Stefan
 redirect_from: 2022/
