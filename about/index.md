@@ -5,6 +5,8 @@ date: 2018-01-25 11:00:00
 ---
 # About Me
 
+Note: I haven't updated this since early 2018, so things are definitely not up-to-date. I'll try to update this sometime soon. In the meantime, you can also check out my [/now page](/now/) which I'll update more often.
+
 {% include image-left.html src="about01.jpg" title="That's Me" %}
 
 Hello.
