@@ -1,13 +1,19 @@
 ---
 title: now
 layout: page
-date: 2024-07-05 20:10:00
+date: 2024-07-19 21:40:00
 ---
 # What I'm Doing Now
 
 > (This is a [/now page](https://nownownow.com/about), inspired by [Derek Sivers](https://sive.rs/now2).)
 
-Updated 5 July 2024, from some airport.
+Updated 19 July 2024, from somewhere.
+
+## Losing My Grandma
+
+I've been fortunate so far in my life that I haven't lost anyone close to me. I did lose my grandma on my father's side when I was around 17 or 18, but I wasn't very close to her and it didn't impact me much (her husband died when I was two or three, so I never met him consciously and it seems like he was... not a very good person anyway). Since then, some family members got sick or hurt, but it was never anything life-threatening, until now. My grandma (on my mother's side), who was an important figure in my early childhood, is currently dying. I knew she had it rough and had been moved back and forth between the care home and the hospital, but it never seemed like the end is imminent. When I visited in May, she had a hard time walking and was in a bit of pain, but she was clear as ever in her head. She told me that she's been showing off my postcard from Japan to everyone she meets at the care home. But since then, things have regressed quickly, in particular in the past two weeks or so, and now she's not far from death. Twice already the doctors have said she won't make the night, though so far she's been fighting her way from day to day. The first time a call like this was made, in mid July, I went out of my way to meet her one last time. At first, I almost didn't recognize her. She was down to the bone and literally looked like she's dying. She was also barely responsive, though she did usually respond to easy yes/no questions. She nodded when I asked her whether she recognized me. But other than that, she wasn't able to express anything comprehensible. At times, it was obvious that she was in huge pain, and it was hard to watch. After she was transported to a hospital again, we all visited her for our goodbyes. As of writing this, she did survive four (!) more nights, so who knows what will happen, but I can't imagine her recovering to a "livible" state to be honest. 😢 The doctors don't seem optimistic either, though they did indeed restart treatment after she survived the night she was not supposed to survive.
+
+All that said, I'm doing fine. It was rough seeing her like that, but I'm glad I did see her again, and was able to say my goodbyes while she, maybe, still knew who I was. I also took advantage of being in my hometown and visited my grandpa, who with the proud age of 96 years, is now living alone for the first time since marrying my grandma some 65 years or so ago. He's doing fairly well, but he's a bit lonely and bored. He seemed to cope well with the whole situation. I guess at his age, he's had enough experience, with life in general and people around him dying in particular, that he has been able to accept the fact that his wife is now among those people. When we called him, mostly to ask if I could come visit, he immediately asked "is it over?". It's sad, of course, but it also seems like a reasonable way to deal with it.
 
 ## Life Direction
 
