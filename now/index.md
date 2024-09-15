@@ -1,13 +1,23 @@
 ---
 title: now
 layout: page
-date: 2024-07-19 21:40:00
+date: 2024-09-15 17:00:00
 ---
 # What I'm Doing Now
 
 > (This is a [/now page](https://nownownow.com/about), inspired by [Derek Sivers](https://sive.rs/now2).)
 
-Updated 19 July 2024, from somewhere.
+Updated 15 September 2024, from Göttingen, Germany.
+
+## Exciting Norway Plans
+
+Even though these plans are already 100% certain and happening in my head, they don't feel certain enough for me to write a real blog post about them, so I'm just adding them here for now (for the one person who happens to stumble upon this).
+
+I have exciting news: In January 2025, I'm going to quit my job and move to Norway! 🥳 I'll be moving in with my friends Johanna and Helmut, who I've been visiting a lot in Trondheim, especially this year. I love spending time with these two and they are like family to me, so it feels very natural to just live with them. Also, there has been a kind of change this year, that every time I visited them, I felt sad to leave and wanted to stay much longer. I used to look forward to going home and having some time to myself, but that changed. I think that's why I haven't seriously considered this move before. I've also become more open to Norway in general and have finally started to learn the language (although I'm still at the very beginning).
+
+This is all very exciting. I have lived abroad twice before, but both times there was a fairly clear time limit on it (both times were in Japan - the first time in 2016/17 for an exchange semester, the second time in 2019/20 for a working holiday that ended somewhat abruptly due to COVID). Of course, even this time it's not clear to me or my friends if it will work out in the long run, but I hope it will. There are still some uncertainties, though. The biggest is whether I will find a job there and whether I will like it. As of right now, there are very few IT jobs available in the Trondheim area. I'm expecting to be unemployed for a couple of months, but I hope to have a job by March 2025. After all, I am going to need income at some point, after all. But I'm optimistic and I'm sure it will work out somehow. 🙂
+
+Anyway, I just wanted to leave this here. There will be more news and a proper blog post (and hopefully some YouTube videos) about this in the coming months (probably after I actually hand in my resignation).
 
 ## Losing My Grandma
 
