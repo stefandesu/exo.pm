@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://exo.pm/feed.xml" rel="self" type="application/atom+xml" /><link href="https://exo.pm/" rel="alternate" type="text/html" /><updated>2024-12-21T17:42:30+01:00</updated><id>https://exo.pm/feed.xml</id><title type="html">Stefan です</title><subtitle>Hi there!</subtitle><author><name>Stefan</name></author><entry><title type="html">The Worst Day of My Life</title><link href="https://exo.pm/2024/12/21/worst-day/" rel="alternate" type="text/html" title="The Worst Day of My Life" /><published>2024-12-21T17:00:00+01:00</published><updated>2024-12-21T17:00:00+01:00</updated><id>https://exo.pm/2024/12/21/worst-day</id><content type="html" xml:base="https://exo.pm/2024/12/21/worst-day/"><![CDATA[<p>Sunday, 6 October 2024</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://exo.pm/feed.xml" rel="self" type="application/atom+xml" /><link href="https://exo.pm/" rel="alternate" type="text/html" /><updated>2024-12-24T12:35:27+01:00</updated><id>https://exo.pm/feed.xml</id><title type="html">Stefan です</title><subtitle>Hi there!</subtitle><author><name>Stefan</name></author><entry><title type="html">Goodbye, Project coli-conc</title><link href="https://exo.pm/2024/12/24/goodbye-project-coli-conc/" rel="alternate" type="text/html" title="Goodbye, Project coli-conc" /><published>2024-12-24T12:00:00+01:00</published><updated>2024-12-24T12:00:00+01:00</updated><id>https://exo.pm/2024/12/24/goodbye-project-coli-conc</id><content type="html" xml:base="https://exo.pm/2024/12/24/goodbye-project-coli-conc/"><![CDATA[<p>At the end of 2017, I decided to finally give up on my master’s degree and try to find a job. I think in my heart, I’ve known for a while that I wasn’t going to finish that degree. There weren’t many classes that interested me, and after taking about a year to finish my bachelor’s thesis a few years earlier, I dreaded to ever write a master’s thesis.</p>
+
+<p>I sent out a few job applications. One of them was for a frontend development job at VZG<sup id="fnref:vzg"><a href="#fn:vzg" class="footnote" rel="footnote" role="doc-noteref">1</a></sup>. They welcomed me with open arms. It sounded like they were having trouble finding a developer at all, possibly because in the IT industry, it is usually more attractive to work for a private company than a public institution. For me, it was a great opportunity to finally move on from being a student and earn some money.</p>
+
+<p>I started working on Project coli-conc<sup id="fnref:coli-conc"><a href="#fn:coli-conc" class="footnote" rel="footnote" role="doc-noteref">2</a></sup> in May 2018. The project had already started a few years earlier and they had a good idea of the web application I was going to build, including a prototype. I had a lot of autonomy though and chose Vue.js as the web framework. As I recall, it didn’t take long until I had my own prototype that we then refined over time. My new baby: The Mapping Tool Cocoda<sup id="fnref:cocoda"><a href="#fn:cocoda" class="footnote" rel="footnote" role="doc-noteref">3</a></sup>.</p>
+
+<p>While Cocoda was my main focus for the first year or so, we also built our own backend and other complementary services related to the project. Over time, together with my colleagues Uma and Jakob, we built a whole infrastructure for coli-conc.</p>
+
+<p>As you may know, I’m very fond of Japan, and at that time, I was thinking about getting a working holiday visa and spending a year over there. Originally, I thought I’d quit my job to do that, but what actually happened was that I continued to work at VZG for a small number of hours each week in order to maintain the infrastructure and slowly continue development. I would think that very few employers would let their employees do something like this, so I was extremely grateful (although in retrospect, it would have been a better experience to look for jobs in Japan instead of continuing my job in Germany remotely). That trip to Japan was cut short by the COVID pandemic.</p>
+
+<p>With COVID came more flexibility in the workplace and everyone started working remotely. This transitioned into a hybrid model that was still quite flexible. I spent some time in Norway, working remotely while staying with my friends.</p>
+
+<p>I also reduced my working hours, first to 30 hours, then to 24. My thinking was that I wanted to work in order to live, not live in order to work. Maybe 24 is a little low, but it allowed me to take a lot more vacation than normal (by working ahead) and still have plenty of time in my daily life for friends and hobbies. Of course, it helps that I didn’t have any financial responsibilities and my main expenses were rent and travel (no car, mortgage, family to support, etc.).</p>
+
+<p>All of this, plus the nice and supportive team, made it a great place to work.</p>
+
+<p>I still began thinking about changing jobs. There were definitely times when work wasn’t going so well for me, and I really noticed how being unproductive at work drains your energy, even for the life outside of work. I also realized that even after working there for a few years, I never really developed an interest for knowledge organization systems used in libraries, and I longed for a change. Not that I think that this is a requirement for having a fulfilling job, but it certainly helps.</p>
+
+<p>However, having such a comfortable position made it difficult for me to actually initiate change. I never really applied for other jobs, and it was not until 2024 that I finally started to take action.</p>
+
+<p>First, I applied to the Apple Developer Academy in Naples, Italy. I intended to write a separate post about this, but never got around to it. It was something that I really wanted to get into, but unfortunately, the competition was tough and I didn’t score enough points in the online exams.</p>
+
+<p>At the same time, I had been talking to my friends Johanna and Helmut, who I’ve been visiting a lot in Norway for the past few years, about the possibility of actually moving in with them. Not getting into the Apple Developer Academy made me take this option more seriously, and around July or August of 2024, we had decided that this would happen in 2025!</p>
+
+<p>As I got closer to my last day at work, I realized that I’m actually really proud of what I have accomplished at work over the last six and a half years. It’s not perfect. There are still bugs. Some things that should have been done were never prioritized. The code could be cleaner. But at the end of the day, I have built a whole infrastructure of tools and services that actually work and get used (though not by many, unfortunately). And it’s all open source as well!<sup id="fnref:open"><a href="#fn:open" class="footnote" rel="footnote" role="doc-noteref">4</a></sup></p>
+
+<p>All this to say: Thank you, everyone at VZG, and especially the coli-conc team. I had a great time! But it’s time to move on. On to the next thing!</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:vzg">
+      <p>VZG = Verbundzentrale des GBV (Head Office of the GBV); GBV = Gemeinsamer Bibliotheksverbund (Common Library Network). See https://gbv.de. <a href="#fnref:vzg" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:coli-conc">
+      <p>https://coli-conc.gbv.de <a href="#fnref:coli-conc" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:cocoda">
+      <p>https://coli-conc.gbv.de/cocoda/ <a href="#fnref:cocoda" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:open">
+      <p>See https://github.com/search?q=topic:coli-conc+org:gbv&amp;type=Repositories. I’m pretty sure this helped a lot at the interview for my new job in Trondheim, where I brought my laptop and was able to actually show what I had built over the years. <a href="#fnref:open" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name>Stefan</name></author><summary type="html"><![CDATA[At the end of 2017, I decided to finally give up on my master’s degree and try to find a job. I think in my heart, I’ve known for a while that I wasn’t going to finish that degree. There weren’t many classes that interested me, and after taking about a year to finish my bachelor’s thesis a few years earlier, I dreaded to ever write a master’s thesis.]]></summary></entry><entry><title type="html">The Worst Day of My Life</title><link href="https://exo.pm/2024/12/21/worst-day/" rel="alternate" type="text/html" title="The Worst Day of My Life" /><published>2024-12-21T17:00:00+01:00</published><updated>2024-12-21T17:00:00+01:00</updated><id>https://exo.pm/2024/12/21/worst-day</id><content type="html" xml:base="https://exo.pm/2024/12/21/worst-day/"><![CDATA[<p>Sunday, 6 October 2024</p>
 
 <p>10:52 - It’s my mom’s birthday. She and my dad are taking a longer weekend to relax a bit. We speak on the phone for 13 minutes. She’s been having strong pain in her head and neck in the past few days, but today it was a bit better.</p>
 
@@ -707,45 +750,4 @@ Good summary of episode 1 including screenshots: https://www.reddit.com/r/anime/
 
 <p>I still had some vacation days left for this year, so today I decided to take off three days next week. This means that I’ll have five days in a row to tackle some bigger thing. I recently started decluttering some possessions, and I think I should spend at least one of those days with that. But I’m also thinking about going through <strong>everything</strong> that I hoarded digitally and force myself to make a decision: Is this something that is worth keeping, that I’m going to look at? What’s my strategy so that I actually do it?</p>
 
-<p>What do you think? Do you have this problem? I know this is something that I’m doing to myself. I could just as well let everything go because it doesn’t really matter anyway. But there’s always this fear of missing out. There was a reason I saved this link once. Anyway, you know what I mean.</p>]]></content><author><name>Stefan</name></author><summary type="html"><![CDATA[You probably know this feeling. In our modern technological world, it’s easy to consume more and more. And I don’t mean only purchases, but in this particular case: Information. There is always more articles to read. Always more videos to watch. New movies, TV shows, books, anime. Too many notifications. Too many posts on social media. It’s just too much.]]></summary></entry><entry><title type="html">M1 Macs Review Roundup</title><link href="https://exo.pm/2020/11/19/m1-macs-roundup/" rel="alternate" type="text/html" title="M1 Macs Review Roundup" /><published>2020-11-19T16:45:00+01:00</published><updated>2020-11-19T16:45:00+01:00</updated><id>https://exo.pm/2020/11/19/m1-macs-roundup</id><content type="html" xml:base="https://exo.pm/2020/11/19/m1-macs-roundup/"><![CDATA[<p>Last week, I wrote about <a href="/2020/11/10/apple-silicon/">Apple Silicon</a> and what I think it means for Macs and computing in general, and about the <a href="/2020/11/11/m1-new-macs/">M1 Macs that were announced at the Apple Event</a>. These Macs have been out since Tuesday now and I’ve been closely following the reviews and impressions that people have.</p>
-
-<p>From what it sounds like, these devices are absolute beasts. They have proven themselves in both benchmark numbers as well as performing real-world tasks. In short: With the new M1 system on a chip, we are getting vastly improved performance <strong>as well as</strong> improved battery life, and all of that in the lowest end Macs on the market. This is unheard of. Apple is basically saying: These low end devices embarrass all of our other computers. But don’t worry, we’re going to update those as well and they are going to be even faster.</p>
-
-<p>The only concern about these new devices is compatibility. It’s pretty much a non-issue for most normal applications because the M1 chip still outperforms every other Mac (not only laptops, also all desktops) in single core performance <strong>even under Rosetta 2</strong>.<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> From what I have gathered, most applications that have not been updated yet still work very well on these devices. However, some applications don’t work at all, or perform poorly. So if you depend on a certain application, you should look up whether it has been updated for Apple Silicon, and if not, wait for a few months or so before upgrading to one of these new Macs. Also, it is currently not possible to run Windows on these devices. In the future, it might be possible to run Windows for ARM in bootcamp, but currently it isn’t. There are other ways to run Windows applications on a Mac<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">2</a></sup>, but right now, if you need Windows on your Mac, don’t buy these devices.</p>
-
-<p>Two further negative points that came up in a lot of these reviews (but which aren’t related to the M1 chip):</p>
-<ol>
-  <li>While the M1 can enhance the image quality of the MacBook’s webcam, it is still the same crappy 720p webcam as before, and it is long overdue that they put a better camera in there.</li>
-  <li>Maybe you heard that you can now run iPhone and iPad apps natively on these new Macs. However, since those applications are designed for touch interfaces, using them on a Mac without a touch screen is supposedly weird and doesn’t work too well, depending on the app.</li>
-</ol>
-
-<p>Here are some reviews that I can recommend looking into, if you are interested:</p>
-<ul>
-  <li><a href="https://daringfireball.net/2020/11/the_m1_macs">John Gruber’s review on Daring Fireball</a> - Not short, but I like that instead of focusing on the numbers, he talks about the non measurable aspects of the products. It is also fairly in-depth at certain points.</li>
-  <li><a href="https://www.youtube.com/watch?v=f4g2nPY-VZc">MKBHD’s video review</a> - Mostly tailored for normal consumers, not tech nerds</li>
-  <li><a href="https://www.youtube.com/watch?v=XQ6vX6nmboU">Dave2D’s video review</a> - This guy always manages to get straight to the point, so it’s pretty short.</li>
-  <li><a href="https://www.youtube.com/watch?v=OEaKQ0pxQsg">The Verge’s video review</a></li>
-  <li><a href="https://www.macworld.com/article/3596603/macbook-air-m1-review-an-absolutely-stunning-debut-for-apple-silicon-in-a-mac.html">MacWorld’s MacBook Air M1 review: An absolutely stunning debut for Apple silicon in a Mac</a></li>
-  <li><a href="https://techcrunch.com/2020/11/17/yeah-apples-m1-macbook-pro-is-powerful-but-its-the-battery-life-that-will-blow-you-away/">Matthew Panzarino’s review on TechCrunch</a> - I hate their consent/tracking stuff with all that page redirection, but it seems to be a good review.</li>
-  <li><a href="https://www.anandtech.com/show/16252/mac-mini-apple-m1-tested">AnandTech putting the Mac mini to the test</a></li>
-  <li><a href="https://atp.fm/405">ATP Episode 405: The Benevolence of the Powerful</a> - I think they describe very well how powerful these Macs are (there’s a chapter marker for when they talk about the M1 Macs).</li>
-</ul>
-
-<p>I will probably be able to try out the M1 MacBook Air myself next week, but I don’t think it warrants a separate post.<sup id="fnref:3"><a href="#fn:3" class="footnote" rel="footnote" role="doc-noteref">3</a></sup></p>
-
-<p>I’m certainly very exited about these new devices and about the future of Macs in general. This is just the very beginning of Apple’s transition to Apple Silicon, and they seem to be going from least powerful to most powerful, so it’ll be exciting to see what they have to show us.</p>
-
-<hr />
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1">
-      <p>As a reminder, Rosetta 2 is the translation layer that allows older x86 applications to run on newer Apple Silicon Macs. It’s kind of like emulation, but it’s doing some of the work upfront to mitigate performance losses. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>e.g. https://www.codeweavers.com/blog/jwhite/2020/11/10/its-great-to-live-in-interesting-times <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:3">
-      <p>I might still do one because I’m having trouble coming up with topic ideas. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>]]></content><author><name>Stefan</name></author><summary type="html"><![CDATA[Last week, I wrote about Apple Silicon and what I think it means for Macs and computing in general, and about the M1 Macs that were announced at the Apple Event. These Macs have been out since Tuesday now and I’ve been closely following the reviews and impressions that people have.]]></summary></entry></feed>
+<p>What do you think? Do you have this problem? I know this is something that I’m doing to myself. I could just as well let everything go because it doesn’t really matter anyway. But there’s always this fear of missing out. There was a reason I saved this link once. Anyway, you know what I mean.</p>]]></content><author><name>Stefan</name></author><summary type="html"><![CDATA[You probably know this feeling. In our modern technological world, it’s easy to consume more and more. And I don’t mean only purchases, but in this particular case: Information. There is always more articles to read. Always more videos to watch. New movies, TV shows, books, anime. Too many notifications. Too many posts on social media. It’s just too much.]]></summary></entry></feed>
