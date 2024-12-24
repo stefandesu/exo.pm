@@ -34,7 +34,7 @@ As I got closer to my last day at work, I realized that I'm actually really prou
 
 All this to say: Thank you, everyone at VZG, and especially the coli-conc team. I had a great time! But it's time to move on. On to the next thing!
 
-[^vzg]: VZG = Verbundzentrale des GBV (Head Office of the GBV); GBV = Gemeinsamer Bibliotheksverbund (Common Library Network). See https://gbv.de.
-[^coli-conc]: https://coli-conc.gbv.de
-[^cocoda]: https://coli-conc.gbv.de/cocoda/
-[^open]: See https://github.com/search?q=topic:coli-conc+org:gbv&type=Repositories. I'm pretty sure this helped a lot at the interview for my new job in Trondheim, where I brought my laptop and was able to actually show what I had built over the years.
+[^vzg]: VZG = Verbundzentrale des GBV (Head Office of the GBV); GBV = Gemeinsamer Bibliotheksverbund (Common Library Network). See <https://gbv.de>.
+[^coli-conc]: <https://coli-conc.gbv.de>
+[^cocoda]: <https://coli-conc.gbv.de/cocoda/>
+[^open]: See <https://github.com/search?q=topic:coli-conc+org:gbv&type=Repositories>. I'm pretty sure this helped a lot at the interview for my new job in Trondheim, where I brought my laptop and was able to actually show what I had built over the years.
