@@ -1,13 +1,20 @@
 ---
 title: now
 layout: page
-date: 2024-09-15 17:00:00
+date: 2025-06-09 12:00:00
 ---
+
 # What I'm Doing Now
 
 > (This is a [/now page](https://nownownow.com/about), inspired by [Derek Sivers](https://sive.rs/now2).)
 
-Updated 15 September 2024, from Göttingen, Germany.
+Updated 9 June 2025, from near Trondheim, Norway.
+
+## Doing Well in Norway
+
+It's been a while since I last updated this page. Since early January 2025, I've been living in Norway! Life has been pretty good. I wrote an [update post](/2025/05/05/first-four-months-in-norway/) about a month ago with more details.
+
+Quick summary: I found a job in Trondheim where I started in February, and it's been going very well. I'm climbing again regularly, and I ride my e-bike to work about four days a week (45 minutes each way). Some of my hobbies have gotten the short end of the stick, and while I plan on becoming a bit more balanced in that regard, I'm not particularly unhappy about it.
 
 ## Exciting Norway Plans
 
