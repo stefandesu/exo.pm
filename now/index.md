@@ -1,14 +1,18 @@
 ---
 title: now
 layout: page
-date: 2025-06-09 12:00:00
+date: 2026-01-25 12:00:00
 ---
 
 # What I'm Doing Now
 
 > (This is a [/now page](https://nownownow.com/about), inspired by [Derek Sivers](https://sive.rs/now2).)
 
-Updated 9 June 2025, from near Trondheim, Norway.
+Updated 25 Januar 2026, from near Trondheim, Norway.
+
+## One Year in Norway
+
+I can't believe it's been over a year already since I have moved to Norway. 🤯 I'm still doing very well. At the moment, I don't plan on moving back (or anywhere else). Some things are not easy, but all in all, life is good here.
 
 ## Doing Well in Norway
 
